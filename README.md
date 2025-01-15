@@ -33,4 +33,4 @@ ls -al
 git config --global user.name "Name Example"
 git config --global user.email example@email.com
 ```
-## Parabéns, está tudo pronto.
+### Parabéns, está tudo pronto.
